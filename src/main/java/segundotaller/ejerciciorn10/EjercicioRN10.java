@@ -15,7 +15,7 @@ public class EjercicioRN10 {
         System.out.println("Ingrese el patrimonio del estudiante (PAT):");
         double PAT = entrada.nextDouble();
         
-        System.out.println("Ingrese el estrato del estudiante(ES):");
+        System.out.println("Ingrese el estrato del estudiante (ES):");
         int ES = entrada.nextInt();
         
         double PAGMAT = 50000;
